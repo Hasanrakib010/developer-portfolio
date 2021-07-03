@@ -22,9 +22,9 @@ section{
 .link-button{
     
     text-decoration: none;
-    background-image: linear-gradient(orange tomato);
+    background-image: linear-gradient(orange,  tomato);
     border-radius: 5px;
     padding: 10px 40px;
-    font-weight: 700;
-    color: red;
+    font-weight: 800;
+    color: white;
 }
